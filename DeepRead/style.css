@@ -37,7 +37,7 @@
 /* ─── RESET & BASE ──────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { font-size: 16px; -webkit-font-smoothing: antialiased; }
+html { font-size: 20px; -webkit-font-smoothing: antialiased; }
 
 body {
   font-family: var(--font-ui);
@@ -77,12 +77,12 @@ body {
   gap: 10px;
   color: var(--coral);
   font-weight: 700;
-  font-size: 16px;
+  font-size: 20px;
   letter-spacing: 0.04em;
 }
 
 .header-brand .gate-icon {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 /* ─── CÔNG TẮC CHẾ ĐỘ ──────────────────────────────── */

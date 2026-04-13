@@ -10,40 +10,73 @@ const TSV_PATH = 'MetaData.tsv';
 const LS_KEY_COMPLETED = 'jpReading_completed';
 
 /* ─── DỮ LIỆU MẪU (fallback khi không fetch được file) ─ */
-const SAMPLE_TSV = `STT\tJSON_Name\tTitle\tLevel
-1\tSampleReading1.json\t集中できない\tN4
-2\tSampleReading2.json\t日本の旅行\tN2
-3\tSampleReading3.json\t私の家族\tN3
-4\tSampleReading4.json\t好きな食べ物\tN4`;
+const SAMPLE_TSV = `STT	JSON_Name	Title	Level
+1	B1/0001.json	The incredible dolphin	B1`;
 
 const SAMPLE_JSON = {
-  "title": "集中できない",
-  "content": "勉強の途中で、「ちょっとだけ」と思ってスマホを開いたら、そのまま数時間もSNSを見てしまったことはありませんか？",
-  "content_html": "<p>勉強の<ruby>途中<rt>とちゅう</rt></ruby>で、「ちょっとだけ」と思ってスマホを<ruby>開<rt>ひら</rt></ruby>いたら、そのまま<ruby>数時間<rt>すうじかん</rt></ruby>もSNSを見てしまったことはありませんか？最近、このような「スマホ<ruby>依存<rt>いぞん</rt></ruby>」に<ruby>悩<rt>なや</rt></ruby>んでいる学生が多くなっています。スマホはとても<ruby>便利<rt>べんり</rt></ruby>ですが、使いすぎると<ruby>大切<rt>たいせつ</rt></ruby>な時間がなくなってしまいます。それだけではありません。<ruby>夜遅<rt>よるおそ</rt></ruby>くまで<ruby>画面<rt>がめん</rt></ruby>を見ていると、<ruby>眠<rt>ねむ</rt></ruby>れなくなったり、次の日に<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなったりするかもしれません。<ruby>楽<rt>たの</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>るために、ルールを<ruby>決<rt>き</rt></ruby>めるといいでしょう。例えば、「勉強中はスマホを別の<ruby>部屋<rt>へや</rt></ruby>に<ruby>置<rt>お</rt></ruby>く」や「<ruby>寝<rt>ね</rt></ruby>る1時間前からは使わない」などです。最初は<ruby>難<rt>むずか</rt></ruby>しいですが、少しずつ<ruby>慣<rt>な</rt></ruby>れていけば、勉強に<ruby>集中<rt>しゅうちゅう</rt></ruby>できる時間がきっと増えるはずです。</p>",
+  "title": "The incredible dolphin",
+  "content": "Many people say dolphins are intelligent. They seem to be able to think, understand, and learn things quickly. But are they as smart as humans, or are they more like cats and dogs? Dolphins use their brains quite differently from the way people do. But scientists say dolphins and humans are alike in some ways. How?\n\nCommunication\n\nLike humans, every dolphin has its own \"name.\" The name is a special whistle. Each dolphin chooses a whistle for itself, usually by its first birthday. Dolphins are like people in other ways, too. They \"talk\" to each other about a lot of things-such as their age, their feelings, and possible danger. They also use a system of sounds and body language to communicate. Understanding dolphin conversation is not easy for humans. No one \"speaks dolphin\" yet, but some scientists are trying to learn.\n\nPlay\n\nDolphins live in groups called pods, and they often join other dolphins from different pods to play games and have fun-just like people. Sometimes they chase other dolphins carrying objects (e.g., seaweed) and throw these objects back and forth. Scientists believe playing together is something only intelligent animals do.\n\nTeamwork\n\nDolphins and humans are similar in another way: They both make plans for getting things they want. In the seas of southern Brazil, for example, dolphins use an intelligent method to get food. When there are fish near a boat, dolphins signal to the fishermen to put their nets in the water. With the dolphins' help, the men can catch a lot of fish. Why do dolphins assist the men? There is an advantage for the dolphins: They get to eat some of the fish that escape from the net.",
+  "content_html": "<p>Many people say dolphins are intelligent. They seem to be able to think, understand, and learn things quickly. But are they as smart as humans, or are they more like cats and dogs? Dolphins use their brains quite differently from the way people do. But scientists say dolphins and humans are alike in some ways. How?</p><h4>Communication</h4><p>Like humans, every dolphin has its own \"name.\" The name is a special whistle. Each dolphin chooses a whistle for itself, usually by its first birthday. Dolphins are like people in other ways, too. They \"talk\" to each other about a lot of things-such as their age, their feelings, and possible danger. They also use a system of sounds and body language to communicate. Understanding dolphin conversation is not easy for humans. No one \"speaks dolphin\" yet, but some scientists are trying to learn.</p><h4>Play</h4><p>Dolphins live in groups called pods, and they often join other dolphins from different pods to play games and have fun-just like people. Sometimes they chase other dolphins carrying objects (e.g., seaweed) and throw these objects back and forth. Scientists believe playing together is something only intelligent animals do.</p><h4>Teamwork</h4><p>Dolphins and humans are similar in another way: They both make plans for getting things they want. In the seas of southern Brazil, for example, dolphins use an intelligent method to get food. When there are fish near a boat, dolphins signal to the fishermen to put their nets in the water. With the dolphins' help, the men can catch a lot of fish. Why do dolphins assist the men? There is an advantage for the dolphins: They get to eat some of the fish that escape from the net.</p>",
   "questions": [
     {
-      "id": "q1_1",
-      "question_text": "この文章で筆者が一番伝えたいことは何ですか。",
+      "id": "q1",
+      "question_text": "What does the reading NOT mention?",
       "options": [
-        { "key": "A", "text": "スマホを別の部屋に置いたら、誰でもすぐに勉強ができるようになるということ。" },
-        { "key": "B", "text": "スマホはとても便利なので、勉強に使うほうがいいということ。" },
-        { "key": "C", "text": "勉強中にスマホを見てしまうのは、自分だけではないということ。" },
-        { "key": "D", "text": "スマホの使い方を自分で決めて、生活を良くしたほうがいいということ。" }
+        { "key": "A", "text": "how dolphins communicate with each other" },
+        { "key": "B", "text": "how dolphins play games and have fun" },
+        { "key": "C", "text": "how dolphins work together to get food" },
+        { "key": "D", "text": "how dolphins move quickly through the water" }
       ],
       "correct_answer": "D",
-      "explanation": "Tác giả khuyên người đọc nên đặt ra các quy tắc sử dụng điện thoại (ルールを決める) như để điện thoại ở phòng khác khi học hoặc không dùng trước khi ngủ để có cuộc sống tốt hơn và tập trung học tập hơn."
+      "explanation": "Bài đọc đề cập đến cách giao tiếp, vui chơi và làm việc nhóm của cá heo, nhưng không nói về tốc độ bơi của chúng."
     },
     {
-      "id": "q1_2",
-      "question_text": "文章の内容と合っているものはどれですか。",
+      "id": "q2",
+      "question_text": "The author mentions cats and dogs in paragraph A to show that",
       "options": [
-        { "key": "A", "text": "寝る直前までスマホを見ると、よく眠れるようになる。" },
-        { "key": "B", "text": "スマホを使いすぎると、体の調子が悪くなる可能性がある。" },
-        { "key": "C", "text": "勉強の途中でスマホを見るのは、時間が短ければ問題ない。" },
-        { "key": "D", "text": "スマホ依存にならないために、スマホを捨てなければならない。" }
+        { "key": "A", "text": "cats and dogs are as intelligent as humans" },
+        { "key": "B", "text": "scientists have studied the brains of cats and dogs" },
+        { "key": "C", "text": "there are different levels of intelligence" },
+        { "key": "D", "text": "dolphins prefer playing with cats and dogs" }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tác giả đặt câu hỏi liệu cá heo thông minh như con người hay ở mức độ giống như chó mèo để so sánh các cấp độ thông minh khác nhau."
+    },
+    {
+      "id": "q3",
+      "question_text": "Where does a dolphin get its \"name\"?",
+      "options": [
+        { "key": "A", "text": "It chooses it for itself." },
+        { "key": "B", "text": "It gets it from its mother." },
+        { "key": "C", "text": "It gets it from scientists." },
+        { "key": "D", "text": "It is given by other members of the pod." }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bài đọc nêu rõ: 'Each dolphin chooses a whistle for itself' (Mỗi con cá heo tự chọn một tiếng huýt sáo cho chính mình)."
+    },
+    {
+      "id": "q4",
+      "question_text": "Which sentence about dolphin language is true?",
+      "options": [
+        { "key": "A", "text": "Dolphin conversation is easy for humans to understand." },
+        { "key": "B", "text": "Dolphins \"talk\" to each other about many things." },
+        { "key": "C", "text": "Dolphins can't understand dolphins from other pods." },
+        { "key": "D", "text": "Dolphins only use body language to communicate." }
       ],
       "correct_answer": "B",
-      "explanation": "Bài viết có đề cập rằng nhìn màn hình điện thoại muộn có thể gây mất ngủ hoặc đau đầu vào ngày hôm sau, tức là ảnh hưởng xấu đến sức khỏe/tình trạng cơ thể."
+      "explanation": "Bài đọc xác nhận cá heo 'nói chuyện' với nhau về nhiều thứ như tuổi tác, cảm xúc và nguy hiểm."
+    },
+    {
+      "id": "q5",
+      "question_text": "Why do dolphins sometimes help fishermen?",
+      "options": [
+        { "key": "A", "text": "The dolphins can get food that way." },
+        { "key": "B", "text": "Dolphins are naturally kind to all humans." },
+        { "key": "C", "text": "The fishermen ask the dolphins for help verbally." },
+        { "key": "D", "text": "Dolphins enjoy being near fishing boats for fun." }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cá heo giúp ngư dân vì có lợi ích: chúng được ăn những con cá thoát ra khỏi lưới."
     }
   ]
 };
