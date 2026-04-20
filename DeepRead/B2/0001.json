@@ -1,0 +1,103 @@
+{
+  "title": "The flower trade",
+  "content": "The flower trade\n\nWhen you purchase fresh-cut flowers, do you think about where they came from? You might assume they were grown somewhere nearby. The reality, though, is that the cut flower trade is increasingly international. Today, thanks to airplanes and high-tech cooling systems, even the most delicate flower can be exported and sold in a florist thousands of kilometers from where it was grown.\n\nThe Cut Flower Leader\n\nThe Netherlands has dominated the world cut flower trade since the 1970s. It handles about 50 percent of the world's cut flowers. And its auction houses are very large indeed—Aalsmeer, near Amsterdam, is an auction house in the sense that Tokyo is a city. About 120 soccer fields would fill its main building. Twenty million flowers are sold here on an average day, including roses, lilies, and—of course—tulips.\n\nThe Netherlands is also a world leader in developing new flower varieties. Dutch companies and the government invest a considerable amount of money in flower research. Their scientists look for ways to lengthen a flower's vase life, to strengthen flowers to prevent them from being damaged while traveling, and also to strengthen the flowers' natural fragrance.\n\nThe Benefits of Climate\n\nDespite the Netherlands' dominance of the flower market, there are many places with a better climate for growing flowers. The climate of Ecuador, for example, is almost perfect. Mauricio Dávalos is the man responsible for starting Ecuador's flower industry, which has grown quickly over recent years. \"Our biggest edge is nature,\" he claims. \"Our roses are the best in the world.\" With predictable rainy periods and 12 hours of sunlight each day, Ecuador's roses are known for their large heads and long, straight stems. Every year, Ecuador sells about 500 million flowers to the United States alone. The industry has brought employment opportunities and a stronger economy to regions of the country. \"My family has TV now. There are radios,\" says Yolanda Quishpe, 20, who picked roses for four years.\n\nTo others, the increasingly international nature of the flower trade is very bad news. In recent years, local growers in the United States faced huge competition from international flower companies; many have even lost their businesses. Lina Hale, an independent rose grower in California, said her father predicted the situation in the 1980s. \"I see a freight train coming down the track,\" he warned her, \"and it's coming straight towards us.\" Her father's prediction—sadly—has largely come true. In a globalized world, what happens in one place often has far-reaching effects.",
+  "content_html": "<p>When you purchase fresh-cut flowers, do you think about where they came from? You might assume they were grown somewhere nearby. The reality, though, is that the cut flower trade is increasingly international. Today, thanks to airplanes and high-tech cooling systems, even the most delicate<sup>1</sup> flower can be exported and sold in a florist thousands of kilometers from where it was grown.</p><h4>The Cut Flower Leader</h4><p>The Netherlands has dominated the world cut flower trade since the 1970s. It handles about 50 percent of the world's cut flowers. And its auction houses<sup>2</sup> are very large indeed—Aalsmeer, near Amsterdam, is an auction house in the sense that Tokyo is a city. About 120 soccer fields would fill its main building. Twenty million flowers are sold here on an average day, including roses, lilies, and—of course—tulips.</p><p>The Netherlands is also a world leader in developing new flower varieties. Dutch companies and the government invest a considerable amount of money in flower research. Their scientists look for ways to lengthen a flower's vase life,<sup>3</sup> to strengthen flowers to prevent them from being damaged while traveling, and also to strengthen the flowers' natural fragrance.</p><h4>The Benefits of Climate</h4><p>Despite the Netherlands' dominance of the flower market, there are many places with a better climate for growing flowers. The climate of Ecuador, for example, is almost perfect. Mauricio Dávalos is the man responsible for starting Ecuador's flower industry, which has grown quickly over recent years. \"Our biggest edge is nature,\" he claims. \"Our roses are the best in the world.\" With predictable rainy periods and 12 hours of sunlight each day, Ecuador's roses are known for their large heads and long, straight stems. Every year, Ecuador sells about 500 million flowers to the United States alone. The industry has brought employment opportunities and a stronger economy to regions of the country. \"My family has TV now. There are radios,\" says Yolanda Quishpe, 20, who picked roses for four years.</p><p>To others, the increasingly international nature of the flower trade is very bad news. In recent years, local growers in the United States faced huge competition from international flower companies; many have even lost their businesses. Lina Hale, an independent rose grower in California, said her father predicted the situation in the 1980s. <mark>\"I see a freight train coming down the track,\"</mark> he warned her, \"and it's coming straight towards us.\" Her father's prediction—sadly—has largely come true. In a globalized world, what happens in one place often has far-reaching effects.</p><p>1: Something delicate is easy to damage and needs to be treated carefully<br/>2: Auction houses sell items to the customers who offer the highest price.<br/>3: Vase life means the amount of time a cut flower remains in good condition</p>",
+  "questions": [
+    {
+      "id": "q1",
+      "question_text": "What is the main idea of the first paragraph?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Many local florists are disappearing due to competition from large companies in other countries."
+        },
+        {
+          "key": "B",
+          "text": "The international flower trade has grown a lot in recent years thanks to new technology."
+        },
+        {
+          "key": "C",
+          "text": "Most people don't realize that the flowers they buy often come from far away."
+        },
+        {
+          "key": "D",
+          "text": "Exported flowers are longer-lasting than local flowers."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Đoạn 1 tập trung vào việc người mua thường lầm tưởng hoa được trồng gần nhà, trong khi thực tế chúng đến từ thị trường quốc tế xa xôi."
+    },
+    {
+      "id": "q2",
+      "question_text": "Which statement about Aalsmeer auction house is true?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It joined the industry in the 1970s."
+        },
+        {
+          "key": "B",
+          "text": "It processes over half of the world’s cut flowers."
+        },
+        {
+          "key": "C",
+          "text": "It is the size of a large city."
+        },
+        {
+          "key": "D",
+          "text": "It sells around 20 million flowers each day."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Bài đọc nêu rõ: 'Twenty million flowers are sold here on an average day' (20 triệu bông hoa được bán ở đây mỗi ngày)."
+    },
+    {
+      "id": "q3",
+      "question_text": "According to the fourth paragraph, Ecuador's flower industry __________.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has found it difficult to compete with the United States"
+        },
+        {
+          "key": "B",
+          "text": "has grown quickly due to Ecuador’s ideal climate"
+        },
+        {
+          "key": "C",
+          "text": "has became the industry leader"
+        },
+        {
+          "key": "D",
+          "text": "has brought TV and other high-tech devices to this country"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Đoạn 4 giải thích rằng nhờ có khí hậu hoàn hảo (mưa ổn định và 12 giờ nắng mỗi ngày), ngành hoa của Ecuador đã phát triển nhanh chóng."
+    },
+    {
+      "id": "q4",
+      "question_text": "What did Lina Hale’s father mean when he said, 'I see a freight train coming down the track'?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He knew his business would be threatened."
+        },
+        {
+          "key": "B",
+          "text": "He thought customers wouldn’t want roses"
+        },
+        {
+          "key": "C",
+          "text": "He thought trains were the new way to move flowers."
+        },
+        {
+          "key": "D",
+          "text": "He wanted to teach his daughter how to manage risks."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Câu nói này là một phép ẩn dụ cho thấy ông đã dự đoán được mối đe dọa lớn từ sự cạnh tranh quốc tế sắp ập đến với doanh nghiệp gia đình."
+    }
+  ]
+}
