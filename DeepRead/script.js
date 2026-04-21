@@ -480,7 +480,7 @@ async function onLessonClick(lesson) {
 }
 
 async function fetchJSON(jsonName) {
-  const res = await fetch(jsonName);
+  const res = await fetch(`${jsonName}?t=${Date.now()}`);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return res.json();
 }
@@ -505,7 +505,7 @@ function onModeToggle(evt) {
 
 async function loadMetadata() {
   try {
-    const res = await fetch(TSV_PATH);
+    const res = await fetch(`${TSV_PATH}?t=${Date.now()}`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const text = await res.text();
     state.lessons = parseTSV(text);
