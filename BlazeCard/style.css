@@ -510,7 +510,7 @@ body {
 
 /* ── Nội dung thẻ trước ──────────────────────────────── */
 .card-kanji {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 26px;
   color: var(--text-muted);
   font-weight: 400;
@@ -521,7 +521,7 @@ body {
 
 /* Chữ đọc (Hiragana/Katakana) — lớn, màu nhấn */
 .card-reading {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 56px;
   font-weight: 700;
   color: var(--accent);
@@ -562,7 +562,7 @@ body {
   font-size: 21.5px;
   color: var(--text-sub);
   line-height: 1.8;
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-weight: 300;
   max-width: 480px;
 }
@@ -736,7 +736,7 @@ body {
 .pronun-spoken-text {
   font-weight: 600;
   color: var(--text-sub);
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 /* Nút đóng kết quả */
