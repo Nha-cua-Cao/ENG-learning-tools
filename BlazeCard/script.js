@@ -339,7 +339,7 @@ function exportStarred() {
 ══════════════════════════════════════════════════════ */
 async function loadDefault() {
   try {
-    const r = await fetch("UnitMetaData.tsv")
+    const r = await fetch("UnitMetaData.tsv?t=" + Date.now())
     if (!r.ok) return
     const t = await r.text()
     parseMetadata(t)
@@ -420,7 +420,7 @@ async function loadDeckDynamic() {
 
   // Tạo danh sách các Unit cần tải (những cái chưa có trong rawData)
   const promises = selectedChecks.map(async (chk) => {
-    const url = chk.dataset.url;
+    const url = `${chk.dataset.url}?t=${Date.now()}`; // Thêm timestamp để tránh cache
     const book = chk.dataset.book;
     const unit = parseInt(chk.value);
 
