@@ -1,0 +1,79 @@
+{
+  "title": "Biological Adaptations for Human Language",
+  "content": "Turning to the biological limitations affecting language development, if we assume that all humans are able to speak a language, a number of biological facts fall into place, suggesting that the human body is particularly adapted to the production of language.\n\nHuman teeth are different to those of other animals—being even and forming an unbroken barrier, they are upright; they do not slant outwards and the top and bottom set of teeth meet. This is not necessary for eating. Yet evenly spaced equal sized teeth which touch are useful for producing the sounds /s/, /f/, /v/, /ʃ/ and /θ/ as well as several others.\n\nHuman lips have well-developed muscles which are linked in a more complicated way than those of other primates. The human mouth is small and can be opened and closed rapidly, allowing the sounds /p/ and /b/ to be made.\n\nThe human tongue is thick, muscular and mobile. This means that the size of the mouth cavity can be varied, allowing a range of vowel sounds to be made.\n\nThe human larynx, also known as the voice box, is simpler in structure than that of other primates; air can move freely past and then out of the mouth without being blocked by anything. The 'streamlining' of the larynx may be a sign of adaptation to speech - however, a disadvantage of this is that we cannot breathe while we eat, unlike monkeys. If food becomes trapped in our windpipe we could choke to death.\n\nOur breathing is well adapted to speech; during speech, we are able to alter our breathing rhythm without noticing discomfort.\n\nHumans have a long childhood compared to other animals. If factors like size, lifespan and gestation are taken into account, compared to other animals, humans appear to be born too early. For humans to follow the general trend, they would require a woman to be pregnant for 18 months. Thus, with other factors taken into account, the human gestation period is only half as long as those of other animals. This means that less information is inherited genetically. In effect, human babies are given more opportunity to learn from the environment. Perhaps humans are biologically disposed towards language, but they need the environment to make use of their brains.",
+  "content_html": "<p>Turning to the biological limitations affecting language development, if we assume that all humans are able to speak a language, a number of biological facts fall into place, suggesting that the human body is particularly adapted to the production of language.</p><p>Human teeth are different to those of other animals—being even and forming an unbroken barrier, they are upright; they do not slant outwards and the top and bottom set of teeth meet. This is not necessary for eating. Yet evenly spaced equal sized teeth which touch are useful for producing the sounds /s/, /f/, /v/, /ʃ/ and /θ/ as well as several others.</p><p>Human lips have well-developed muscles which are linked in a more complicated way than those of other primates. The human mouth is small and can be opened and closed rapidly, allowing the sounds /p/ and /b/ to be made.</p><p>The human tongue is thick, muscular and mobile. This means that the size of the mouth cavity can be varied, allowing a range of vowel sounds to be made.</p><p>The human larynx, also known as the voice box, is simpler in structure than that of other primates; air can move freely past and then out of the mouth without being blocked by anything. The 'streamlining' of the larynx may be a sign of adaptation to speech - however, a disadvantage of this is that we cannot breathe while we eat, unlike monkeys. If food becomes trapped in our windpipe we could choke to death.</p><p>Our breathing is well adapted to speech; during speech, we are able to alter our breathing rhythm without noticing discomfort.</p><p>Humans have a long childhood compared to other animals. If factors like size, lifespan and gestation are taken into account, compared to other animals, humans appear to be born too early. For humans to follow the general trend, they would require a woman to be pregnant for 18 months. Thus, with other factors taken into account, the human gestation period is only half as long as those of other animals. This means that less information is inherited genetically. In effect, human babies are given more opportunity to learn from the environment. Perhaps humans are biologically disposed towards language, but they need the environment to make use of their brains.</p>",
+  "questions": [
+    {
+      "id": "q1",
+      "question_text": "The importance of the shape of human teeth is that they",
+      "options": [
+        {
+          "key": "A",
+          "text": "form a barrier to the throat."
+        },
+        {
+          "key": "B",
+          "text": "allow certain sounds to be produced."
+        },
+        {
+          "key": "C",
+          "text": "make chewing food easier."
+        },
+        {
+          "key": "D",
+          "text": "allow the lip muscles to develop."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Đoạn văn thứ hai chỉ ra rằng hàm răng đều và chạm nhau ở người rất hữu ích để tạo ra các âm cụ thể như /s/, /f/, /v/, /ʃ/ và /θ/."
+    },
+    {
+      "id": "q2",
+      "question_text": "The structure of the human larynx means",
+      "options": [
+        {
+          "key": "A",
+          "text": "the mouth cavity has space for the tongue."
+        },
+        {
+          "key": "B",
+          "text": "it blocks air exiting from the mouth."
+        },
+        {
+          "key": "C",
+          "text": "humans cannot breathe and swallow at the same time."
+        },
+        {
+          "key": "D",
+          "text": "breathing requires effort in humans."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Đoạn văn thứ năm giải thích rằng nhược điểm của cấu trúc thanh quản ở người (để thích nghi với việc nói) là chúng ta không thể vừa thở vừa ăn, điều này có thể gây nghẹn."
+    },
+    {
+      "id": "q3",
+      "question_text": "Why is it suggested that the human gestation period is so short?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to allow humans to learn more from the environment"
+        },
+        {
+          "key": "B",
+          "text": "to limit the size that humans grow to"
+        },
+        {
+          "key": "C",
+          "text": "to take full advantage of our genetic make-up"
+        },
+        {
+          "key": "D",
+          "text": "to ensure children learn speech"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Đoạn cuối cùng nêu rõ: \"In effect, human babies are given more opportunity to learn from the environment\" (Thực tế, trẻ sơ sinh của con người được trao nhiều cơ hội hơn để học hỏi từ môi trường)."
+    }
+  ]
+}
