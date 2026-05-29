@@ -1,0 +1,127 @@
+{
+  "title": "Seeing double",
+  "content": "Many scientists once believed that physical similarities between identical twins are genetic, while their personalities, intelligence, and other differences between them are an effect of their environment. But scientists are now discovering that the boundaries between genetics and environment are not so clear after all.\n\nThe Jim Twins\n\nIdentical twins Jim Springer and Jim Lewis were adopted as babies and raised by different couples. When the two Jims finally met at age 39, they discovered they had plenty in common. Both were 182 centimeters tall and weighed 82 kilograms. They had the same smile and the same voice. When psychologist Thomas Bouchard Jr. invited the Jim twins to his lab, his colleagues found it very hard to tell them apart.\n\nBut the similarities didn't stop at the physical. They had both had dogs named Toy. They had both married women named Linda, and then divorced them. They had both been sheriffs, enjoyed making things with wood, suffered severe headaches, and admitted to leaving love notes around the house for their wives. They had so much in common that it seemed unlikely these were just coincidences.\n\nGenetics and Intelligence\n\nThe Jim twins were just one of 137 sets of separated twins Bouchard tested. When they compared the twins' IQ scores, Bouchard and his team reached a surprising conclusion. They concluded that intelligence was mostly connected to genetics rather than to training or education. It seemed the differences in family and environment had little effect.\n\nHowever, genes can't control everything, argues geneticist Danielle Reed, who also studies twins. Reed's research shows that, though nothing can truly change our DNA, environmental differences that a child experiences before birth and in their first year can sometimes affect the way the DNA behaves. This can make even identical twins into vastly different people. \"What I like to say is that Mother Nature writes some things in pencil and some things in pen,\" she explains. \"Things written in pen you can't change. That's DNA. But things written in pencil you can.\"",
+  "content_html": "<p>A. Many scientists once believed that physical similarities between identical twins are genetic, while their personalities, intelligence, and other differences between them are an effect of their environment. But scientists are now discovering that the boundaries between genetics and environment are not so clear after all.</p><h3>The Jim Twins</h3><p>B. Identical twins Jim Springer and Jim Lewis were adopted as babies and raised by different couples. When the two Jims finally met at age 39, they discovered they had plenty in common. Both were 182 centimeters tall and weighed 82 kilograms. They had the same smile and the same voice. When psychologist Thomas Bouchard Jr. invited the Jim twins to his lab, his colleagues found it very hard to tell them apart.</p><p>C. But the similarities didn't stop at the physical. They had both had dogs named Toy. They had both married women named Linda, and then divorced them. They had both been sheriffs,<sup>1</sup> enjoyed making things with wood, suffered severe headaches, and admitted to leaving love notes around the house for their wives. They had so much in common that it seemed unlikely these were just coincidences.</p><h3>Genetics and Intelligence</h3><p>D. The Jim twins were just one of 137 sets of separated twins Bouchard tested. When <mark>they</mark> compared the twins' IQ scores, Bouchard and his team reached a surprising conclusion. They concluded that intelligence was mostly connected to genetics rather than to training or education. It seemed the differences in family and environment had little effect.</p><p>E. However, genes can't control everything, argues geneticist Danielle Reed, who also studies twins. Reed's research shows that, though nothing can truly change our DNA, environmental differences that a child experiences before birth and in their first year can sometimes affect the way the DNA behaves. This can make even identical twins into <mark>vastly</mark> different people. \"What I like to say is that Mother Nature<sup>2</sup> writes some things in pencil and some things in pen,\" she explains. \"Things written in pen you can't change. That's DNA. But things written in pencil you can.\"</p><p>1 A sheriff is a kind of police officer.<br/>Mother Nature is sometimes used to refer to nature, especially when it is being considered as a force that affects human beings.</p>",
+  "questions": [
+    {
+      "id": "q1",
+      "question_text": "What is the reading mainly about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "how identical twins are formed"
+        },
+        {
+          "key": "B",
+          "text": "the effects genes have on personality"
+        },
+        {
+          "key": "C",
+          "text": "the differences between identical twins"
+        },
+        {
+          "key": "D",
+          "text": "the influence of education on intelligence"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Đáp án B đúng vì bài đọc tập trung vào việc gen ảnh hưởng đến tính cách và trí thông minh, không chỉ ngoại hình như suy nghĩ trước đây. Các đáp án khác không phải là ý chính."
+    },
+    {
+      "id": "q2",
+      "question_text": "In the past, scientists believed that",
+      "options": [
+        {
+          "key": "A",
+          "text": "genetics only controlled our appearance"
+        },
+        {
+          "key": "B",
+          "text": "genetics controlled everything about who we are"
+        },
+        {
+          "key": "C",
+          "text": "our genes are affected by the environment around us"
+        },
+        {
+          "key": "D",
+          "text": "personality is determined solely by genetics"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Đáp án A đúng. Trong quá khứ, các nhà khoa học tin rằng gen chỉ quyết định ngoại hình, còn tính cách và trí thông minh do môi trường quyết định."
+    },
+    {
+      "id": "q3",
+      "question_text": "Who does the word they refer to in the second sentence of paragraph D?",
+      "options": [
+        {
+          "key": "A",
+          "text": "the Jim Twins"
+        },
+        {
+          "key": "B",
+          "text": "sets of twins"
+        },
+        {
+          "key": "C",
+          "text": "Bouchard and his team"
+        },
+        {
+          "key": "D",
+          "text": "the adopted parents of the twins"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Đáp án C đúng. 'They' trong câu thứ hai của đoạn D ('When they compared the twins' IQ scores...') chỉ Bouchard và nhóm của ông."
+    },
+    {
+      "id": "q4",
+      "question_text": "According to Bouchard and his team, what is intelligence mostly related to?",
+      "options": [
+        {
+          "key": "A",
+          "text": "genetics"
+        },
+        {
+          "key": "B",
+          "text": "education"
+        },
+        {
+          "key": "C",
+          "text": "parenting"
+        },
+        {
+          "key": "D",
+          "text": "environmental factors before birth"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Đáp án A đúng. Theo Bouchard và nhóm nghiên cứu, trí thông minh chủ yếu liên quan đến gen, không phải giáo dục hay nuôi dạy."
+    },
+    {
+      "id": "q5",
+      "question_text": "In paragraph E, the word vastly is closest in meaning to",
+      "options": [
+        {
+          "key": "A",
+          "text": "unfortunately"
+        },
+        {
+          "key": "B",
+          "text": "interestingly"
+        },
+        {
+          "key": "C",
+          "text": "extremely"
+        },
+        {
+          "key": "D",
+          "text": "slightly"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Đáp án C đúng. 'Vastly' có nghĩa là 'cực kỳ, rất nhiều', gần nhất với 'extremely'. Các đáp án khác không đúng nghĩa."
+    }
+  ]
+}

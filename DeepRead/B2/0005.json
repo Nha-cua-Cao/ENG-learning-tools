@@ -1,0 +1,67 @@
+{
+  "title": "The teenage brain",
+  "content": "Parents, teachers, and anyone who regularly deals with teenagers knows how difficult the adolescent years can be. Adolescents have always been known to do wild-even dangerous things. This was thought to be due to the foolishness of youth. Now, brain-imaging technology allows scientists to study the physical development of the brain in more detail than ever before. Their discoveries have led to a new theory of why teens act the way they do.\n\nA Work in Progress\n\nRecently, scientists discovered that though our brains are almost at their full size by the age of six, they are far from fully developed. Only during adolescence do our brains truly \"grow up.\" During this time, they go through great changes, like a computer system being upgraded. This \"upgrade\" was once thought to be finished by about age 12. Now, scientists have concluded that our brains continue to change until age 25. Such changes make us better at balancing our impulses with the need to follow rules. However, a still-developing brain does this clumsily. The result, scientists claim, is the unpredictable behavior seen in teenagers.\n\nPleasure Seekers\n\nThe studies confirm that teens are more likely to take risks and behave in extreme ways. Fortunately, the news isn't all negative. As brain scientist B. J. Casey points out, the teen brain inspires such behavior in order to help teenagers prepare for adult life.\n\nOne way the brain does this is by changing the way teens measure risk and reward. Researchers found that when teens think about rewards, their brains release more of the chemicals that create pleasure than an adult brain would. Researchers believe this makes the rewards seem more important than the risks, and makes teens feel the excitement of new experiences more keenly than adults do.\n\nResearch into the structure of the teen brain also found that it makes social connections seem especially rewarding. As such, teens have an intense need to meet new people. Scientists suggest this is because as teens, we begin to realize that our peers may one day control the world we live in. Because it is still developing, a teen brain can change to deal with new situations. It therefore connects social rewards with even more pleasure. In this way, the brain encourages teens to have a wide circle of friends, which is believed to make us more successful in life.\n\nUnfortunately, this hunt for greater rewards can sometimes lead teens to make bad decisions. However, it also means that teens are more likely, and less afraid, to try new things or to be independent. The scientists' findings suggest that in the long run, the impulses of the teen brain are what help teens leave their parents' care and live their own lives successfully.<",
+  "content_html": "<p>A. Parents, teachers, and anyone who regularly deals with teenagers knows how difficult the adolescent years can be. Adolescents have always been known to do wild-even dangerous things. This was thought to be due to the foolishness<sup>1</sup> of youth. Now, brain-imaging technology allows scientists to study the physical development of the brain in more detail than ever before. Their discoveries have led to a new theory of why teens act the way they do.</p><h3>A Work in Progress</h3><p>B. Recently, scientists discovered that though our brains are almost at their full size by the age of six, they are far from fully developed. Only during adolescence do our brains truly \"grow up.\" During this time, they go through great changes, like a computer system being upgraded. This \"upgrade\" was once thought to be finished by about age 12. Now, scientists have concluded that our brains continue to change until age 25. Such changes make us better at balancing our impulses with the need to follow rules. However, a still-developing brain does this clumsily<sup>2</sup>. The result, scientists claim, is the unpredictable behavior seen in teenagers.</p><h3>Pleasure Seekers</h3><p>C. The studies confirm that teens are more likely to take risks and behave in extreme ways. Fortunately, <mark>the news isn't all negative</mark>. As brain scientist B. J. Casey points out, the teen brain inspires such behavior in order to help teenagers prepare for adult life.</p><p>D. One way the brain does this is by changing the way teens measure risk and reward. Researchers found that when teens think about rewards, their brains release more of the chemicals that create pleasure than an adult brain would. Researchers believe this makes the rewards seem more important than the risks, and makes teens feel the excitement of new experiences more <mark>keenly</mark> than adults do.</p><p>E. Research into the structure of the teen brain also found that it makes social connections seem especially rewarding. As such, teens have an intense need to meet new people. Scientists suggest this is because as teens, we begin to realize that our peers may one day control the world we live in. Because it is still developing, a teen brain can change to deal with new situations. It therefore connects social rewards with even more pleasure. In this way, the brain encourages teens to have a wide circle of friends, which is believed to make us more successful in life.</p><p>F. Unfortunately, this hunt for greater rewards can sometimes lead teens to make bad decisions. However, it also means that teens are more likely, and less afraid, to try new things or to be independent. The scientists' findings suggest that in the long run, the impulses of the teen brain are what help teens leave their parents' care and live their own lives successfully.</p><p>1 Foolishness refers to the behavior of someone who makes bad decisions.<br/>2 If something is done clumsily, it is done in an awkward or uncontrolled way.</p>",
+  "questions": [
+    {
+      "id": "q1",
+      "question_text": "What is the main purpose of the reading?",
+      "options": [
+        { "key": "A", "text": "to suggest that today's teenagers think differently from previous generations" },
+        { "key": "B", "text": "to explain how teenagers' brains affect their behavior" },
+        { "key": "C", "text": "to describe an experiment that looked at the brains of teenagers" },
+        { "key": "D", "text": "to argue that teenagers should be treated like young children" }
+      ],
+      "correct_answer": "B",
+      "explanation": "Đoạn văn tập trung vào các lý thuyết khoa học mới liên quan đến việc sự phát triển thể chất của não bộ gây ra hành vi khó đoán và liều lĩnh ở thanh thiếu niên."
+    },
+    {
+      "id": "q2",
+      "question_text": "Which of the following statements about an adolescent's brain is NOT true?",
+      "options": [
+        { "key": "A", "text": "It can change to deal with new situations." },
+        { "key": "B", "text": "It is better than an adult brain at following rules." },
+        { "key": "C", "text": "It is still developing." },
+        { "key": "D", "text": "It continues to change until age 25." }
+      ],
+      "correct_answer": "B",
+      "explanation": "Đoạn văn nêu rõ rằng não bộ còn đang phát triển không thể tuân theo quy tắc một cách hiệu quả và việc 'nâng cấp' cho não bộ (giúp cân bằng giữa xung động và quy tắc) chưa hoàn thành cho đến khi người trẻ tuổi 25 tuổi."
+    },
+    {
+      "id": "q3",
+      "question_text": "In paragraph C, what does the author mean by 'the news isn't all negative'?",
+      "options": [
+        { "key": "A", "text": "The negative side of the research is not understood." },
+        { "key": "B", "text": "The way the teen brain works has some advantages." },
+        { "key": "C", "text": "The impulses of a teenage brain should be controlled." },
+        { "key": "D", "text": "Teenagers are no longer behaving in dangerous ways." }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tiếp theo đó, tác giả giải thích cách hành vi của thanh thiếu niên thực sự giúp họ chuẩn bị cho cuộc sống trưởng thành và sự độc lập. Điều này cho thấy rằng mặc dù có những hành vi tiêu cực, nhưng cách hoạt động của não bộ thanh thiếu niên cũng có những lợi ích nhất định."
+    },
+    {
+      "id": "q4",
+      "question_text": "In paragraph D, what does 'keenly' mean?",
+      "options": [
+        { "key": "A", "text": "strongly" },
+        { "key": "B", "text": "loudly" },
+        { "key": "C", "text": "slowly" },
+        { "key": "D", "text": "rarely" }
+      ],
+      "correct_answer": "A",
+      "explanation": "Trong ngữ cảnh này, từ \"keenly\" (rất nhiệt tình) mô tả mức độ mãnh liệt hoặc mạnh mẽ mà thanh thiếu niên cảm nhận sự hào hứng với những trải nghiệm mới so với người lớn."
+    },
+    {
+      "id": "q5",
+      "question_text": "Which of the following would be the best heading for the last paragraph (Paragraph F)?",
+      "options": [
+        { "key": "A", "text": "An Independent Brain" },
+        { "key": "B", "text": "The Rewards of Friendship" },
+        { "key": "C", "text": "The Parents' Role" },
+        { "key": "D", "text": "The Dangers of Technology" }
+      ],
+      "correct_answer": "A",
+      "explanation": "Đoạn cuối cùng thảo luận về cách xung động của não bộ thanh thiếu niên giúp họ trở nên độc lập hơn và thành công trong việc rời xa sự chăm sóc của cha mẹ."
+    }
+  ]
+}
