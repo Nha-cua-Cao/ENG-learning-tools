@@ -1,0 +1,127 @@
+{
+  "title": "The big thaw",
+  "content": "A. The Chacaltaya ski area sits upon a small mountain glacier in Bolivia. Although the area is less than a kilometer long, it once hosted international ski competitions. In the past ten years, however, the snow has melted very quickly. As the Chacaltaya glacier melts, dark rocks are uncovered. These rocks absorb more heat, causing temperatures to increase, so the remaining snow melts faster. The cycle seems unstoppable. Today, the snow is almost gone, and so are Chacaltaya's days as a popular ski resort.\n\nA Global Problem\n\nB. In recent years, scientists all around the world have come to a terrifying conclusion. Global warming is a real problem, and one largely caused by human activity. But as experts debate how to solve the problem, ice near the North and South Poles is melting even faster than environmentalists once feared. Ten years ago, scientists warned that the Arctic Ocean could lose all its ice in about a hundred years. Now, they think it could happen much sooner. As climate scientist Mark Serreze says, \"Reality is exceeding expectations.\"\n\nGlacier Run\n\nC. The ice sheet of Greenland is also melting more quickly than scientists predicted. One of its largest glaciers, Jakobshavn Isbræ, is moving toward the sea faster than expected. In fact, the glacier is moving twice as fast as it was in 1995. Rising air and sea temperatures are two well-known causes. Researchers have also discovered other unexpected processes that cause glaciers to melt faster. For instance, water from melting ice runs down cracks in the surface and gets between the ice and rock below. This makes it easier for the glacier to slide into the warmer sea water.\n\nD. Some researchers believe that the melting of Greenland's ice, if it continues, could add at least a meter to global sea levels by 2100. If the ice sheet of Antarctica continues to melt at its current rate, the next few centuries could see at least a two-meter rise in sea levels, forcing tens of millions of people out of their homes.\n\nDrying Out\n\nE. While the melting of glaciers may flood some areas of the Earth, in other places, global warming is making water disappear. Many scientists think the glaciers of the Himalayas and the Andes could disappear in this century. As a result, millions of people in India, Bangladesh, Bolivia, and Peru-who depend on water from mountain glaciers like Chacaltaya-could find themselves in a critical situation. An increasing number of heat waves and droughts worldwide also suggests global warming is having an impact on humans right now, and that it could change the face of the world in the future.\n\nF. How can we avoid these terrible consequences? \"We all have a role to play in saving our planet,\" says Oscar-winning actor Leonardo DiCaprio, a producer of the documentary movie Before the Flood, which helped to raise awareness of the problem. DiCaprio believes that an immediate shift in people's attitude to climate change is needed. \"We need to vote for leaders who understand the serious issues impacting our climate,\" he says. \"There is no issue this important-because the future of the planet is at stake.\"",
+  "content_html": "<p>A. The Chacaltaya ski area sits upon a small mountain glacier in Bolivia. Although the area is less than a kilometer long, it once hosted international ski competitions. In the past ten years, however, the snow has melted very quickly. As the Chacaltaya glacier melts, dark rocks are uncovered. These rocks absorb more heat, causing temperatures to increase, so the remaining snow melts faster. The cycle seems unstoppable. Today, the snow is almost gone, and so are Chacaltaya's days as a popular ski resort.</p><h3>A Global Problem</h3><p>B. In recent years, scientists all around the world have come to a terrifying conclusion. Global warming is a real problem, and one largely caused by human activity. But as experts debate how to solve the problem, ice near the North and South Poles is melting even faster than environmentalists once feared. Ten years ago, scientists warned that the Arctic Ocean could lose all its ice in about a hundred years. Now, they think it could happen much sooner. As climate scientist Mark Serreze says, \"Reality is exceeding expectations.\"</p><h3>Glacier Run</h3><p>C. The ice sheet of Greenland is also melting more quickly than scientists predicted. One of its largest glaciers, Jakobshavn Isbræ, is moving toward the sea faster than expected. In fact, the glacier is moving twice as fast as it was in 1995. Rising air and sea temperatures are two well-known causes. Researchers have also discovered other unexpected processes that cause glaciers to melt faster. For instance, water from melting ice runs down cracks in the surface and gets between the ice and rock below. This makes it easier for the glacier to slide into the warmer sea water.</p><p>D. Some researchers believe that the melting of Greenland's ice, if it continues, could add at least a meter to global sea levels by 2100. If the ice sheet of Antarctica continues to melt at its current rate, the next few centuries could see at least a two-meter rise in sea levels, forcing tens of millions of people out of their homes.</p><h3>Drying Out</h3><p>E. While the melting of glaciers may flood some areas of the Earth, in other places, global warming is making water disappear. Many scientists think the glaciers of the Himalayas and the Andes could disappear in this century. As a result, millions of people in India, Bangladesh, Bolivia, and Peru-who depend on water from mountain glaciers like Chacaltaya-could find themselves in a critical situation. An increasing number of heat waves and droughts worldwide also suggests global warming is having an impact on humans right now, and that it could change the face of the world in the future.</p><p>F. How can we avoid these terrible consequences? \"We all have a role to play in saving our planet,\" says Oscar-winning actor Leonardo DiCaprio, a producer of the documentary movie Before the Flood, which helped to raise awareness of the problem. DiCaprio believes that an immediate shift in people's attitude to climate change is needed. \"We need to vote for leaders who understand the serious issues impacting our climate,\" he says. \"There is no issue this important-because <mark>the future of the planet is at stake</mark>.\"</p>",
+  "questions": [
+    {
+      "id": "q1",
+      "question_text": "What is the main idea of the reading passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The movie Before the Flood is raising awareness of climate change."
+        },
+        {
+          "key": "B",
+          "text": "Global warming is causing many problems on Earth."
+        },
+        {
+          "key": "C",
+          "text": "Scientists are finding ways to slow the melting of glaciers."
+        },
+        {
+          "key": "D",
+          "text": "The Chacaltaya ski resort is closed due to a lack of snow."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Đoạn văn đề cập đến nhiều tác động nghiêm trọng của hiện tượng nóng lên toàn cầu, chẳng hạn như băng tan ở Bolivia, Greenland và Nam Cực, và sự thay đổi nguồn cung cấp nước trên toàn thế giới. Các đáp án khác chỉ đề cập đến một khía cạnh nhỏ của vấn đề hoặc không phải là ý chính."
+    },
+    {
+      "id": "q2",
+      "question_text": "What reason is NOT given for the faster glacier movement in Greenland?",
+      "options": [
+        {
+          "key": "A",
+          "text": "warming air temperatures"
+        },
+        {
+          "key": "B",
+          "text": "unusual rainfall patterns"
+        },
+        {
+          "key": "C",
+          "text": "water getting beneath the ice"
+        },
+        {
+          "key": "D",
+          "text": "rising sea temperatures"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Đoạn C đề cập đến nhiệt độ không khí và nước biển tăng cao, và nước ngấm vào giữa băng và đá bên dưới, nhưng không đề cập đến các kiểu mưa bất thường."
+    },
+    {
+      "id": "q3",
+      "question_text": "What do some researchers believe will happen by the year 2100?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Global sea levels will rise by at least a meter."
+        },
+        {
+          "key": "B",
+          "text": "Millions of homes will be lost in Greenland."
+        },
+        {
+          "key": "C",
+          "text": "The ice sheet of Antarctica will completely melt."
+        },
+        {
+          "key": "D",
+          "text": "The Himalayas will lose all of their mountain glaciers."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Đoạn D nêu rõ: \"Một số nhà nghiên cứu tin rằng nếu băng ở Greenland tiếp tục tan chảy, mực nước biển toàn cầu có thể tăng thêm ít nhất một mét vào năm 2100.\""
+    },
+    {
+      "id": "q4",
+      "question_text": "What does DiCaprio mean by \"the future of the planet is at stake\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nobody knows what the world will be like in years to come."
+        },
+        {
+          "key": "B",
+          "text": "There is a risk that the entire world could be seriously affected."
+        },
+        {
+          "key": "C",
+          "text": "There is much disagreement about how the world is changing."
+        },
+        {
+          "key": "D",
+          "text": "People should stop making documentary movies about climate."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cụm từ \"at stake\" có nghĩa là đang gặp rủi ro hoặc nguy hiểm. Ông ấy nhấn mạnh rằng toàn thế giới sẽ bị ảnh hưởng nghiêm trọng nếu chúng ta không hành động để ngăn chặn biến đổi khí hậu."
+    },
+    {
+      "id": "q5",
+      "question_text": "What would be the best heading for the final paragraph?",
+      "options": [
+        {
+          "key": "A",
+          "text": "What Can We Do?"
+        },
+        {
+          "key": "B",
+          "text": "What Is the Cause?"
+        },
+        {
+          "key": "C",
+          "text": "Who Is to Blame?"
+        },
+        {
+          "key": "D",
+          "text": "What Are the Effects?"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Đoạn F tập trung vào các giải pháp và hành động, chẳng hạn như nâng cao nhận thức, thay đổi thái độ và bầu chọn những nhà lãnh đạo phù hợp, do đó \"What Can We Do?\" là tiêu đề phù hợp nhất."
+    }
+  ]
+}

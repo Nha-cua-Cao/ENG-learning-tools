@@ -1,0 +1,127 @@
+{
+  "title": "Life on the edge",
+  "content": "A. The old ways have little appeal for Malik Løvstrøm. A slim twenty-four-year-old, Løvstrøm has lived his whole life in Uummannaq. The people in this small town on Greenland's west coast survive mainly on seal hunting and fishing. But Løvstrøm's interests lie elsewhere-in rock music and horror movies. He taught himself English by listening to music, and now dreams of working as a tour guide on Greenland's cruise ships. He knows he should move to a larger town, as many of his friends have done. But doing so would leave no one to care for his 80-year-old grandmother. So, he remains in Uummannaq.\n\nB. Small towns all over Greenland are losing population. Niaqornat, a settlement near Uummannaq, is now home to just fifty people. The instability of towns like these has worsened as a result of climate change. Ice loss has shortened the hunting season, and as a result, traditional hunting and fishing can no longer pay for access to modern amenities. Long before the sea ice disappears, economic and social pressures may force people to leave these settlements.\n\nC. The question of what to do about this problem is a common topic of debate at gatherings known as kaffemik. At one community gathering, Jean-Michel Huctin, a French anthropologist,<sup>2</sup> gets into a lively discussion with a man who has moved to Nuuk, Greenland's largest town. The subject is the future of places like Niaqornat-and whether they even have one.\n\nD. \"If we don't move out of isolation, we will always be conservative,\"<sup>3</sup> the man from Nuuk tells Huctin. \"I don't want to live in a museum. I don't want to live in the old way. My son, my daughter should be part of the world.\" The traditional lifestyles survive only because of government subsidies,<sup>4</sup> he argues. This approach forces young people into a life of hunting and fishing rather than encouraging them to look beyond tradition.\n\nE. But job opportunities in Greenland are few, Huctin counters. Anyway, what would happen to the older hunters? Should they give up their independence-their boats and dogsleds and live in a city apartment building? The loss of settlements would be a loss for all, he says. Such places preserve Inuit hunting culture. But Huctin is hopeful: \"I think these small, remote communities can invent a sustainable future for themselves,\" he says. \"The people have gone from hunting to Facebook in less than a century... I'm sure they will succeed in the future.\"\n\nF. Fewer people are choosing to stay, however; even fewer arrive from outside. An exception is Ilannguaq Egede, who moved to Niaqornat to be with his girlfriend. His first job was cleaning the town's toilets, but now he manages the town's power plant. \"I like it here a lot,\" he says. \"I have a home and a nice salary. You can feel the freshness here, and it's open,\" he says. \"I don't want to move anyplace else.\"<p>1 Amenities are useful features or facilities provided in a certain place (e.g., supermarkets, sports facilities).<br/>2 An anthropologist is someone who studies people and society.<br/>3 If someone is conservative, they prefer not to make big changes.<br/>4 A subsidy is money given, usually by a government, to help a certain business or industry</p>",
+  "content_html": "<p>A. The old ways have little appeal for Malik Løvstrøm. A slim twenty-four-year-old, Løvstrøm has lived his whole life in Uummannaq. The people in this small town on Greenland's west coast survive mainly on seal hunting and fishing. But Løvstrøm's interests lie elsewhere-in rock music and horror movies. He taught himself English by listening to music, and now dreams of working as a tour guide on Greenland's cruise ships. He knows he should move to a larger town, as many of his friends have done. But doing so would leave no one to care for his 80-year-old grandmother. So, he remains in Uummannaq.</p><p>B. Small towns all over Greenland are losing population. Niaqornat, a settlement near Uummannaq, is now home to just fifty people. The instability of towns like these has worsened as a result of climate change. Ice loss has shortened the hunting season, and as a result, traditional hunting and fishing can no longer pay for access to modern amenities<sup>1</sup>. Long before the sea ice disappears, economic and social pressures may force people to leave these settlements.</p><p>C. The question of what to do about this problem is a common topic of debate at gatherings known as kaffemik. At one community gathering, Jean-Michel Huctin, a French anthropologist, gets into a lively discussion with a man who has moved to Nuuk, Greenland's largest town. The subject is the future of places like Niaqornat-and whether they even have one.</p><p>D. \"If we don't move out of <mark>isolation</mark>, we will always be conservative,\" the man from Nuuk tells Huctin. \"I don't want to live in a museum. I don't want to live in the old way. My son, my daughter should be part of the world.\" The traditional lifestyles survive only because of government subsidies, he argues. This approach forces young people into a life of hunting and fishing rather than encouraging them to look beyond tradition.</p><p>E. But job opportunities in Greenland are few, Huctin counters. Anyway, what would happen to the older hunters? Should they give up their independence-their boats and dogsleds and live in a city apartment building? The loss of settlements would be a loss for all, he says. Such places preserve Inuit hunting culture. But Huctin is hopeful: \"I think these small, remote communities can invent a sustainable future for themselves,\" he says. \"The people have gone from hunting to Facebook in less than a century... I'm sure they will succeed in the future.\"</p><p>F. Fewer people are choosing to stay, however; even fewer arrive from outside. An exception is Ilannguaq Egede, who moved to Niaqornat to be with his girlfriend. His first job was cleaning the town's toilets, but now he manages the town's power plant. \"I like it here a lot,\" he says. \"I have a home and a nice salary. You can feel the freshness here, and it's open,\" he says. \"I don't want to move anyplace else.\"</p>",
+  "questions": [
+    {
+      "id": "q1",
+      "question_text": "What is the reading mainly about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "problems facing small towns in Greenland"
+        },
+        {
+          "key": "B",
+          "text": "how people in Greenland still hunt for food"
+        },
+        {
+          "key": "C",
+          "text": "the rising populations of Greenland's major cities"
+        },
+        {
+          "key": "D",
+          "text": "the history of cruise ship tourism in Greenland"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toàn bộ bài đọc tập trung vào các thách thức mà những thị trấn nhỏ ở Greenland đang đối mặt, bao gồm suy giảm dân số, biến đổi khí hậu ảnh hưởng đến săn bắn truyền thống và cuộc tranh luận về tương lai của các cộng đồng này."
+    },
+    {
+      "id": "q2",
+      "question_text": "Which of the following is NOT true about Uummannaq?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is the largest town in Greenland."
+        },
+        {
+          "key": "B",
+          "text": "Most people there follow a traditional lifestyle."
+        },
+        {
+          "key": "C",
+          "text": "Climate change is affecting the economy."
+        },
+        {
+          "key": "D",
+          "text": "It is located on the west coast of Greenland."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Đoạn C nói rõ rằng Nuuk mới là thị trấn lớn nhất của Greenland (Greenland's largest town), và đoạn A mô tả Uummannaq là một thị trấn nhỏ (small town). Do đó, thông tin A là sai."
+    },
+    {
+      "id": "q3",
+      "question_text": "According to information in paragraph A, Malik Løvstrøm's ambition is to",
+      "options": [
+        {
+          "key": "A",
+          "text": "hunt seals and fish"
+        },
+        {
+          "key": "B",
+          "text": "work in the tourism industry"
+        },
+        {
+          "key": "C",
+          "text": "move to another country"
+        },
+        {
+          "key": "D",
+          "text": "produce horror movies and rock music"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Đoạn A cho biết Malik mơ ước được làm hướng dẫn viên du lịch trên các tàu tuần duyên của Greenland (\"dreams of working as a tour guide on Greenland's cruise ships\"), điều này thuộc ngành du lịch."
+    },
+    {
+      "id": "q4",
+      "question_text": "In paragraph D, what does the word isolation mean?",
+      "options": [
+        {
+          "key": "A",
+          "text": "separation"
+        },
+        {
+          "key": "B",
+          "text": "tradition"
+        },
+        {
+          "key": "C",
+          "text": "community"
+        },
+        {
+          "key": "D",
+          "text": "development"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Trong ngữ cảnh thảo luận về việc các thị trấn nhỏ nằm tách biệt và xa xôi, từ \"isolation\" mang nghĩa là sự cô lập, sự tách biệt (separation)."
+    },
+    {
+      "id": "q5",
+      "question_text": "The author refers to Ilannguaq Egede in paragraph F to indicate that",
+      "options": [
+        {
+          "key": "A",
+          "text": "there are no good jobs available in small towns in Greenland"
+        },
+        {
+          "key": "B",
+          "text": "not everyone is preparing to move away from small settlements in Greenland"
+        },
+        {
+          "key": "C",
+          "text": "at least one person still wants to be a traditional hunter or fisher"
+        },
+        {
+          "key": "D",
+          "text": "modern power plants are destroying traditional Inuit culture"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Đoạn F bắt đầu bằng việc nói rằng ngày càng ít người chọn ở lại các thị trấn nhỏ, nhưng Ilannguaq Egede là một ngoại lệ (\"An exception\"). Câu chuyện của anh chứng minh rằng vẫn có người muốn chuyển đến và gắn bó với các khu định cư nhỏ này."
+    }
+  ]
+}
